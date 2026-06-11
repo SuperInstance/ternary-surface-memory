@@ -3,6 +3,7 @@ description = "ternary-surface-memory - SuperInstance ecosystem crate"
 repository = "https://github.com/SuperInstance/ternary-surface-memory"
 name = "ternary-surface-memory"
 version = "0.1.0"
-edition = "2024"
+license = "MIT OR Apache-2.0"
+edition = "2021"
 
 [dependencies]
